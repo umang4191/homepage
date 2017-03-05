@@ -1,0 +1,80 @@
+﻿ .expired {
+            background: url("images/logout-bg.png") no-repeat left top;
+            position: static;
+            padding-left: 40px;
+            float: right;
+            left: 0;
+            width: 1143px;
+            height: 232px;
+            z-index: 0;
+            padding-top: 50px;
+            padding-left: 10px;
+            font-family: 'Century Gothic';
+            color: #ed1164;
+        }
+
+        .addtitle {
+            font-family: 'Century Gothic';
+            font-size: 15px;
+            line-height: 18px;
+            color: #666666;
+            text-transform: uppercase;
+            font-weight: bold;
+        }
+
+        .logotable {
+            width: 100%;
+            background-color: #fff;
+        }
+
+        .add {
+            margin: 10px 0px 20px;
+            font-family: 'Century Gothic';
+            font-size: 13px;
+            color: #666666;
+            text-align: justify;
+        }
+
+        .moreupdate {
+            color: #ed1164;
+            font-family: Century Gothic;
+            font-size: 15px;
+            text-decoration: none;
+        }
+
+        a {
+            color: #ed1164;
+            transition: all 0.2s linear;
+            text-decoration: none;
+        }
+
+            a:hover, a:focus {
+                color: #ed1164;
+            }
+
+        .addtabcontainer {
+            width: 100%;
+            background-color: #b0aeae;
+        }
+
+        .addtabmain {
+            width: 60%;
+            border: 0;
+        }
+
+        .addinner {
+            background: #fff;
+            width: 200px;
+        }
+
+        .addtabtd {
+            padding-top: 20px;
+            padding-bottom: 20px;
+            padding-left: 20px;
+            padding-right: 20px;
+            text-align: center;
+        }
+
+
+
+
